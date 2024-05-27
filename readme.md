@@ -1,6 +1,6 @@
 # Microservices with Spring Boot and Spring Cloud on Kubernetes Project
 
-[![CircleCI](https://circleci.com/gh/piomin/sample-spring-microservices-kubernetes.svg?style=svg)](https://circleci.com/gh/piomin/sample-spring-microservices-kubernetes)
+<!-- [![CircleCI](https://circleci.com/gh/piomin/sample-spring-microservices-kubernetes.svg?style=svg)](https://circleci.com/gh/piomin/sample-spring-microservices-kubernetes) -->
 
 <!-- [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-black.svg)](https://sonarcloud.io/dashboard?id=piomin_spring-microservices-kubernetes)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=piomin_spring-microservices-kubernetes&metric=bugs)](https://sonarcloud.io/dashboard?id=piomin_spring-microservices-kubernetes)
